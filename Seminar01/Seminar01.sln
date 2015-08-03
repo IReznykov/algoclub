@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiniteAutomaton", "FiniteAutomaton\FiniteAutomaton.csproj", "{1F3386B8-4E2F-4325-8986-55E3FBA2D71C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberRecognition", "NumberRecognition\NumberRecognition.csproj", "{7CA4E445-AC5D-4A95-A6D6-6A32879016DF}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ireznykov.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FiniteAutomaton\\FiniteAutomaton.csproj
+		SccProjectName1 = FiniteAutomaton
+		SccLocalPath1 = FiniteAutomaton
+		SccProjectUniqueName2 = NumberRecognition\\NumberRecognition.csproj
+		SccProjectName2 = NumberRecognition
+		SccLocalPath2 = NumberRecognition
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F3386B8-4E2F-4325-8986-55E3FBA2D71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3386B8-4E2F-4325-8986-55E3FBA2D71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3386B8-4E2F-4325-8986-55E3FBA2D71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3386B8-4E2F-4325-8986-55E3FBA2D71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA4E445-AC5D-4A95-A6D6-6A32879016DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA4E445-AC5D-4A95-A6D6-6A32879016DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA4E445-AC5D-4A95-A6D6-6A32879016DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA4E445-AC5D-4A95-A6D6-6A32879016DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
